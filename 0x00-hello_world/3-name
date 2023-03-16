@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc export CFILE=3-main.c ; ./3-name
+gcc export CFILE=3-main.c
